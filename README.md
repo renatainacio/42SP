@@ -1,6 +1,6 @@
 # 42SP
 
-<h2>Core - Phase 1!</h2>
+<h2>Phase 1 Projects</h2>
 <hr>
 <h3>1.libft</h3>
 Coding a C library with general purpose functions.
